@@ -7,4 +7,7 @@ https://www.scribd.com/document/897316130/XMLRAT-LAB
 https://0xghada.medium.com/cyberdefenders-writeup-openfire-lab-fbcbbed6d3bb
 https://faresbltagy.gitbook.io/footprintinglabs/cyberdefenders/openfire-lab
 
-3. 
+3. DanaBot Lab:
+https://cyberdefenders.org/walkthroughs/danabot/
+
+4. 
