@@ -12,4 +12,7 @@ https://faresbltagy.gitbook.io/footprintinglabs/cyberdefenders/openfire-lab
 3. DanaBot Lab:
 https://cyberdefenders.org/walkthroughs/danabot/
 
-4. 
+4. Fog Ransomware:
+https://cyberdefenders.org/walkthroughs/fog-ransomware/
+
+5. 
